@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>нарисовать треугольник</title>
+	<script type="text/javascript">
+	var lines = 5;
+	var line = "";
+	var count = 0;
+    while(count < lines) {
+	  line = line + '*';
+	  console.log(line);
+	  count++;
+    }
+			
+	</script>
+	
+</head>
+<body>
+
+
+
+</body>
+</html>
