@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>возвести 2 в 10 степени</title>
+	<script type="text/javascript">
+	var num = 2;
+	var exp = 10;
+	var result = 1;
+	var count = 1;
+    while(count <= exp) {
+	  result *= num;
+	  count++;
+    }
+	console.log(result);
+	
+		
+	</script>
+	
+</head>
+<body>
+
+
+
+</body>
+</html>
